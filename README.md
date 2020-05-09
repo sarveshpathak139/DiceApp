@@ -1,4 +1,4 @@
-# myapp
+# DiceApp in Flutter
 
 A new Flutter project.
 
